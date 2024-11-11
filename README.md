@@ -13,9 +13,9 @@ __Goals__
 
 The goals of this project are:
 
-- learning and exploring new programming languages (C#,JavaScript and Python)
+- learning and exploring new programming languages (C#, JavaScript and Python)
 - using appropriate sources for coding
-- learning how to work with files and their manipulation through built-in functions in C#,JavaScript and Python
+- learning how to work with files and their manipulation through built-in functions in C#, JavaScript and Python
 - handling mistakes and errors throught project development
 
 
