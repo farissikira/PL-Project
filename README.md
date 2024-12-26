@@ -49,7 +49,9 @@ will be visible in the Notepad since this is not a GUI application.
    
 - **Edit_File**
 
-  Allows users to modify the text within the Edit_File function. This includes adding and deleting of words in the text.
+  Allows users to modify the text within the Edit function. This includes adding and deleting of words in the text.
+
+  ![Edit FIle](https://github.com/farissikira/PL-Project/blob/main/edit.jpg?raw=true)
   
 - **Find_File**
 
