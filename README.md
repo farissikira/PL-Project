@@ -31,7 +31,7 @@ will be visible in the Notepad since this is not a GUI application.
 
 - **Menu Options**
   
-![Menu Options](https://raw.githubusercontent.com/farissikira/PL-Project/2b1bdb99fdd470cc489b987184af136923e8419f/menu_options.JPG)
+  ![Menu Options](https://raw.githubusercontent.com/farissikira/PL-Project/2b1bdb99fdd470cc489b987184af136923e8419f/menu_options.JPG)
 
 - **Open File**
 
@@ -68,9 +68,15 @@ will be visible in the Notepad since this is not a GUI application.
 
 - **Delete Line**
     
-    Allows users to enter the line they want to delete.
+  Allows users to enter the line they want to delete.
 
-    ![Delete Line](https://github.com/farissikira/PL-Project/blob/main/delete_line.jpg?raw=true)
+  ![Delete Line](https://github.com/farissikira/PL-Project/blob/main/delete_line.jpg?raw=true)
+
+- **Delete Word**
+  
+  Allows users to enter the content they want to delete.
+  
+  ![Delete Word](https://github.com/farissikira/PL-Project/blob/main/delete_word.JPG?raw=true)
 
     
 - **Display File**
