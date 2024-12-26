@@ -4,10 +4,10 @@
 __Project Explanation__
 
 Console-Based Text Editor Project behaves like a regular Notepad on Microsoft.
-Opening, saving, editing, finding and replacing a word and displaying the text are the options that our program will provide.
-Program should be simple to maintain and it will be run in the terminal where a user will have the
+Opening, saving, editing, finding, replacing, deleting and displaying the content are the options that our program provides.
+Program is easy to maintain and it runs in the terminal where a user has the
 provided options on how to use Text Editor without the usage of GUI.
-It will be written in C#, JavaScript and Python in Visual Studio and Visual Studio Code IDE.
+It is written in C#, JavaScript and Python in Visual Studio and Visual Studio Code IDE.
 
 __Goals__
 
@@ -26,7 +26,7 @@ will be visible in the Notepad since this is not a GUI application.
 
 
 Main features for the project:
-- **Open_File**
+- **Open File**
 
    Takes a path argument (the location of the file) which will allow the file to be accessed and modified directly in command line. When the file is opened its contents are 
    loaded into the editor.
