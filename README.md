@@ -82,3 +82,5 @@ will be visible in the Notepad since this is not a GUI application.
 - **Display File**
 
   Displays the full content of the file directly on the command line.
+
+  ![Display](https://github.com/farissikira/PL-Project/blob/main/display.jpg?raw=true)
