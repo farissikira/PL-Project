@@ -84,3 +84,8 @@ will be visible in the Notepad since this is not a GUI application.
   Displays the full content of the file directly on the command line.
 
   ![Display](https://github.com/farissikira/PL-Project/blob/main/display.jpg?raw=true)
+
+- **Exit**
+  Exits the program.
+
+  ![Exit](https://github.com/farissikira/PL-Project/blob/main/exit.JPG?raw=true)
