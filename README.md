@@ -55,7 +55,10 @@ will be visible in the Notepad since this is not a GUI application.
   
 - **Find_File**
 
-  A search feature that allows users to find specific words within the file. Function has one parameter which is the word that the users are searching for.
+  A search feature that allows users to find specific content within the file. Function has one parameter which is the word that the users are searching for.
+
+  ![Find](https://github.com/farissikira/PL-Project/blob/main/find.jpg?raw=true)
+  
   
 - **Replace_File**
 
