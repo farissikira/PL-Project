@@ -40,33 +40,39 @@ will be visible in the Notepad since this is not a GUI application.
 
   ![Open File](https://github.com/farissikira/PL-Project/blob/main/open.jpg?raw=true)
   
-- **Save_File**
+- **Save File**
 
   Overwrites the existing file with the current version in the editor. Each time a user edits the file, user will save the changes by using Save_File function.
 
   ![Save File](https://github.com/farissikira/PL-Project/blob/main/save.jpg?raw=true)
   
    
-- **Edit_File**
+- **Edit File**
 
   Allows users to modify the text within the Edit function. This includes adding and deleting of words in the text.
 
   ![Edit FIle](https://github.com/farissikira/PL-Project/blob/main/edit.jpg?raw=true)
   
-- **Find_File**
+- **Find File**
 
   A search feature that allows users to find specific content within the file. Function has one parameter which is the word that the users are searching for.
 
   ![Find](https://github.com/farissikira/PL-Project/blob/main/find.jpg?raw=true)
   
   
-- **Replace_File**
+- **Replace File**
 
   Allows users to search for a particular word and replace it with a new one throught the file. The function will have two parameters (old word, new word).
 
   ![Replace](https://github.com/farissikira/PL-Project/blob/main/replace.jpg?raw=true)
 
+- **Delete Line**
     
-- **Display_File**
+    Allows users to enter the line they want to delete.
+
+    ![Delete Line](https://github.com/farissikira/PL-Project/blob/main/delete_line.jpg?raw=true)
+
+    
+- **Display File**
 
   Displays the full content of the file directly on the command line.
