@@ -64,6 +64,8 @@ will be visible in the Notepad since this is not a GUI application.
 
   Allows users to search for a particular word and replace it with a new one throught the file. The function will have two parameters (old word, new word).
 
+  ![Replace](https://github.com/farissikira/PL-Project/blob/main/replace.jpg?raw=true)
+
     
 - **Display_File**
 
