@@ -31,12 +31,14 @@ will be visible in the Notepad since this is not a GUI application.
 
 - **Menu Options**
   
-![](https://raw.githubusercontent.com/farissikira/PL-Project/2b1bdb99fdd470cc489b987184af136923e8419f/menu_options.JPG)
+![Menu Options](https://raw.githubusercontent.com/farissikira/PL-Project/2b1bdb99fdd470cc489b987184af136923e8419f/menu_options.JPG)
 
 - **Open File**
 
    Takes a path argument (the location of the file) which will allow the file to be accessed and modified directly in command line. When the file is opened its contents are 
    loaded into the editor.
+
+  ![Open File](https://github.com/farissikira/PL-Project/blob/main/open.jpg?raw=true)
   
 - **Save_File**
 
