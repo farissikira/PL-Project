@@ -1,7 +1,7 @@
 # PL-Project 
 # Console-Based Text Editor
 
-__Project Explanation__
+## __Project Explanation__
 
 Console-Based Text Editor Project behaves like a regular Notepad on Microsoft.
 Opening, saving, editing, finding, replacing, deleting and displaying the content are the options that our program provides.
@@ -9,7 +9,7 @@ Program is easy to maintain and it runs in the terminal where a user has the
 provided options on how to use Text Editor without the usage of GUI.
 It is written in C#, JavaScript and Python in Visual Studio and Visual Studio Code IDE.
 
-__Goals__
+## __Goals__
 
 The goals of this project are:
 
@@ -19,13 +19,20 @@ The goals of this project are:
 - handling mistakes and errors throught project development
 
 
-__Features__
+## __Features__
+
 
 Code will be connected by a text file with the Notepad so changes made in the terminal
 will be visible in the Notepad since this is not a GUI application.
 
 
-Main features for the project:
+
+## __Main features for the project__
+
+- **Menu Options**
+  
+![](https://raw.githubusercontent.com/farissikira/PL-Project/2b1bdb99fdd470cc489b987184af136923e8419f/menu_options.JPG)
+
 - **Open File**
 
    Takes a path argument (the location of the file) which will allow the file to be accessed and modified directly in command line. When the file is opened its contents are 
