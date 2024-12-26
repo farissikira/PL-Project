@@ -43,6 +43,9 @@ will be visible in the Notepad since this is not a GUI application.
 - **Save_File**
 
   Overwrites the existing file with the current version in the editor. Each time a user edits the file, user will save the changes by using Save_File function.
+
+  ![Save File](https://github.com/farissikira/PL-Project/blob/main/save.jpg?raw=true)
+  
    
 - **Edit_File**
 
